@@ -54,3 +54,4 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 
 - Profile Management: Users can update their profile details (email, password, or picture) anytime.
 
+## The directory ScreensAsImg have all the screen shots of all the screens.
