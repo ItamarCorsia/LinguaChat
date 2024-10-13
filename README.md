@@ -53,7 +53,7 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 
 ### The directory ScreensAsImg have all the screen shots of all the screens.
 
-# Screen Flow
+                                                                           # Screen Flow
 
 ## Welcome Screen
 ![1](https://github.com/user-attachments/assets/23fd55f4-8b5c-4559-be7c-406e4a55eef3)
