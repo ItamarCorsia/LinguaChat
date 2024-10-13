@@ -166,12 +166,15 @@ This dashboard enables smooth navigation and access to essential features for bo
 ## Finding a Room
 
 Once logged in, you will also be able to find and join a room by clicking the **"Find room"** button. This feature is only available after you've logged in.
+![9](https://github.com/user-attachments/assets/9618f4ad-8184-457b-8856-85c4a8855a1e)
 
 Here, users can select their preferred language. All messages sent by other users will be translated and delivered in the recipient's chosen language!
+![10](https://github.com/user-attachments/assets/f568180c-0358-4205-9bb9-98acf60796ab)
 
 ---
 
 ## Welcome to the Chat Room
+![11](https://github.com/user-attachments/assets/0fee0b92-f113-4e42-a474-1fa8a4fb129f)
 
 After selecting your preferred language and entering the chat room, you’ll be presented with an interactive messaging interface designed for seamless communication with other users.
 
