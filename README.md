@@ -55,28 +55,19 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 - Profile Management: Users can update their profile details (email, password, or picture) anytime.
 
 ## The directory ScreensAsImg have all the screen shots of all the screens.
-Screen flow 
-Welcome screen :
+# Screen Flow
 
+## Welcome Screen
 
+### Welcome to the App!
 
-
-
-
-
-
-
-
-
-
-
-
-Welcome to the App!
 On this screen, you have two main options:
-Login:
-If you already have an account, you can log in by clicking the "Login" button. This will take you to the face detection login page where the system will recognize you using facial recognition.
-Sign In (Register):
-If you're new here and don't have an account yet, click the "Sign in" button to create a new account and get started.
-Choose the option that suits you and enjoy the experience!
 
+1. **Login**  
+   If you already have an account, you can log in by clicking the **"Login"** button. This will take you to the face detection login page where the system will recognize you using facial recognition.
+
+2. **Sign In (Register)**  
+   If you're new here and don't have an account yet, click the **"Sign in"** button to create a new account and get started.
+
+Choose the option that suits you and enjoy the experience!
 
