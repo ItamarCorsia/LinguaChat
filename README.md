@@ -73,6 +73,7 @@ On this screen, you have two main options:
 ---
 
 ## Sign In Screen
+![2](https://github.com/user-attachments/assets/659102f5-781e-4fc7-bb01-2aedb6ed9e00)
 
 ### Welcome to the Registration Page!
 
