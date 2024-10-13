@@ -1,15 +1,10 @@
-
 # LinguaChat
-
 Multilingual Chat Rooms with Real-Time Translation & Speech Recognition
-
-
-
 
 ## Project Overview
 LinguaChat is a real-time chat application that enables users to communicate across languages through automatic translation. It also includes a powerful speech recognition feature that converts spoken words into text and translates them into the user’s preferred language. The system supports user registration and login via Firebase, and allows for seamless multilingual conversations in chat rooms.
-## Features
 
+## Features
 - Real-time Chat: Communicate in real-time within chat rooms.
 
 - Automatic Translation: Messages are automatically translated into the user’s preferred language.
@@ -25,6 +20,7 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 - Profile Management: Users can update their email, password, and profile pictures.
 
 - Firebase Storage: Secure storage for user data and images.
+
 ## Technologies Used
 - Flask: Backend framework for creating the web server and handling HTTP requests.
 
@@ -39,6 +35,7 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 - SpeechRecognition (Python): For recognizing spoken words and converting them into text.
 
 - HTML/CSS/JavaScript: Frontend for user interaction.
+
 ## How It Works
 - Sign Up / Login: Users can register or log in using their credentials, managed via Firebase.
 
@@ -54,9 +51,8 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 
 - Profile Management: Users can update their profile details (email, password, or picture) anytime.
 
-# The directory ScreensAsImg have all the screen shots of all the screens.
+### The directory ScreensAsImg have all the screen shots of all the screens.
 
-# Screen Flow
 # Screen Flow
 
 ## Welcome Screen
