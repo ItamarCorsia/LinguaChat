@@ -53,9 +53,9 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 
 ### The directory ScreensAsImg have all the screen shots of all the screens.
 
-                                                                           # Screen Flow
+# Screen Flow
 
-## Welcome Screen
+## Welcome Screen:
 ![1](https://github.com/user-attachments/assets/23fd55f4-8b5c-4559-be7c-406e4a55eef3)
 
 ### Welcome to the App!
@@ -72,7 +72,7 @@ On this screen, you have two main options:
 
 ---
 
-## Sign In Screen
+## Sign In Screen:
 ![2](https://github.com/user-attachments/assets/659102f5-781e-4fc7-bb01-2aedb6ed9e00)
 
 ### Welcome to the Registration Page!
@@ -101,7 +101,7 @@ To create an account, follow these steps:
 
 ---
 
-## Login Screen
+## Login Screen:
 ![4](https://github.com/user-attachments/assets/cf7a2256-e4cb-4a44-aa09-9dae697f57a7)
 
 ### Welcome to the Login Page!
@@ -118,7 +118,8 @@ You have two options to log in as either the First User or Second User.
    If you prefer, you can log in using your password. Simply click the **"Login with password"** button for the user you want to log in as.
 ![6](https://github.com/user-attachments/assets/2db1196e-674f-44a9-b3c1-95497003641e)
 
-### Profile Management:
+---
+### Profile Management Screen:
 
 After logging in, you can update your profile. To do so, click the **"Update profile"** button. This will allow you to manage and change your profile details.
 ![8](https://github.com/user-attachments/assets/99abbcf2-29f6-4608-ac08-9645a1d54cb0)
