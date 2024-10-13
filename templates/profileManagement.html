@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Management</title>
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/profileManagement.css') }}"
+    />
+</head>
+<body>
+    <div class="container">
+        <h1>Profile Management</h1>
+    
+        <form action="/update_profile" method="post" enctype="multipart/form-data">
+            <div class="user-info">{{ userIndexSt }} user</div>
+        
+            <!-- Email Input -->
+            <input type="email" id="email" name="email" placeholder="{{ name_placeholder }}">
+        
+            <!-- Password Input -->
+            <input type="password" id="password" name="password" placeholder="Password">
+        
+            <!-- Image Preview -->
+            <div>
+                <label for="profilePicture">Current Profile Picture:</label><br>
+                <img src="data:image/jpeg;base64,{{ img_data }}" alt="Profile Picture">
+            </div>
+        
+            <!-- File Input for New Profile Picture -->
+            <input type="file" id="profilePicture" name="profilePicture" accept="image/*" />
+        
+            <!-- Submit Button -->
+            <input type="submit" id="updateProfile" name="updateProfile_submit" value="Update Profile">
+        </form>   
+    </div>       
+</body>       
+      
+<!-- Include external JS file -->
+<script src="{{ url_for('static', filename='js/profileManagement.js') }}"></script>
+</html>

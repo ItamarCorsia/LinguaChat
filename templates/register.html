@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/register.css')}}" />  
+</head>
+<body>
+    <div class="container">
+        <h1>Register</h1>
+        <input type="text" id="email" name="email" placeholder="E-mail" />
+        <input type="password" id="password" name="password" placeholder="Password" />
+        <input type="file" id="profilePicture" accept="image/*" />
+        <input type="submit" id="signUp" name="SignUp_submit" value="Sign up" />
+
+        <!-- Section to display detected faces -->
+        <div id="faceSelection" style="display:none;">
+            <h2>Select your face</h2>
+            <div id="facesContainer"></div>
+            <button id="confirmFace">Confirm Face</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/register.js') }}" type="module"></script>
+</body>
+</html>

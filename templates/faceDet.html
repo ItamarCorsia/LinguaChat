@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/faceDet.css') }}" />
+</head>
+<body>
+    <h1>Login</h1>
+    <div class="container">
+        <div class="user-card">
+            <h2>First User</h2>
+            <form action="/GetFirstUser" method="get">
+                <button type="submit">Face Detection</button>
+            </form>
+            <form action="/loginAsFirst" method="get">
+                <button type="submit">Login with password</button>
+            </form>
+            <div class="user-id">Id: {{ id1 }}</div>
+            <div class="user-name">User Name: {{ name1 }}</div>
+            <img src="data:image/jpeg;base64,{{ img_data1 }}" >
+            <form action="/profileManagementAsFirst" method="get">
+                <button id="btnProfileManagementAsFirst" type="submit">Update profile</button>
+            </form>
+            <form action="/FirstPlayerRoom" method="get">
+                <button id="findRoomBtn1" type="submit">Find room</button>
+            </form>
+        </div>
+
+        <div class="user-card">
+            <h2>Second User</h2>
+            <form action="/GetSecondUser" method="get">
+                <button type="submit">Face Detection</button>
+            </form>
+            <form action="/loginAsSecond" method="get">
+                <button type="submit">Login with password</button>
+            </form>
+            <div class="user-id">Id: {{ id2 }}</div>
+            <div class="user-name">User Name: {{ name2 }}</div>
+            <img src="data:image/jpeg;base64,{{ img_data2 }}" >
+            <form action="/profileManagementAsSecond" method="get">
+                <button id="btnProfileManagementAsSecond" type="submit">Update profile</button>
+            </form>
+            <form action="/SecondPlayerRoom" method="get">
+                <button id="findRoomBtn2" type="submit">Find room</button>
+            </form>
+        </div>     
+    </div>
+    <form action="/Reset" method="get">
+        <button type="submit">Reset</button>
+    </form>
+    <form action="/refresh" method="get">
+        <button id="refersh" type="submit">Refresh</button>
+    </form>
+
+    <!-- Include external JS file -->
+    <script src="{{ url_for('static', filename='js/faceDet.js') }}"></script>
+</body>
+</html>

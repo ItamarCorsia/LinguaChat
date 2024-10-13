@@ -1,0 +1,25 @@
+{% extends 'base.html' %} 
+{% block content %}
+<head>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/room.css') }}">
+</head>
+<div class="message-box" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80%; max-width: 800px; margin: 20px auto;">
+  <h2>Chat Room: {{code}}</h2>
+  <div class="messages" id="messages"></div>
+  <div class="inputs">
+    <input type="text" rows="3" placeholder="Type your message..." name="message" id="message" />
+    <button type="button" name="send" id="send-btn" onClick="sendMessage()">Send</button>
+    <button type="button" id="record-btn">Start Recording</button>
+    <button type="button" id="stop-btn" style="display: none;">Stop Recording</button>
+  </div>
+</div>
+
+<!-- Include external JS file -->
+<script type="text/javascript" src="{{ url_for('static', filename='js/room.js') }}"></script>
+
+{% for msg in messages %}
+<script type="text/javascript">
+  createMessage("{{msg.name}}", "{{msg.ogMessage}}", "{{msg.trMessage}}");
+</script>
+{% endfor %}
+{% endblock %}
