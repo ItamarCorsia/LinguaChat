@@ -56,6 +56,7 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 # Screen Flow
 
 ## Welcome Screen
+![1](https://github.com/user-attachments/assets/23fd55f4-8b5c-4559-be7c-406e4a55eef3)
 
 ### Welcome to the App!
 
