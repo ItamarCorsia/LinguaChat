@@ -88,8 +88,6 @@ To create an account, follow these steps:
 
 3. **Face Detection (Optional):**  
    After selecting a profile picture, the system will automatically detect faces from the uploaded image. You’ll be prompted to select your face from the detected options. Simply click on the correct image, and it will be highlighted.
-![aa](https://github.com/user-attachments/assets/d40d3c9c-b58b-4e55-8e18-613a6a89ff7e)
-
 ![3](https://github.com/user-attachments/assets/c3eb96b7-3986-4b86-ab1b-dcf38eced819)
 
 4. **Confirm Your Face:**  
@@ -97,12 +95,14 @@ To create an account, follow these steps:
 
 5. **Complete Registration:**  
    When everything is set, the system will process your information and display a message confirming whether the registration was successful.
+![Screenshot 2024-10-03 193017](https://github.com/user-attachments/assets/5c3078e0-7d3b-4484-bee9-7dbb857ae6ec)
 
 **Please ensure to select a profile picture for face detection, as it’s required for logging in later. Once you’ve completed these steps, you’ll be ready to use the app!**
 
 ---
 
 ## Login Screen
+![4](https://github.com/user-attachments/assets/cf7a2256-e4cb-4a44-aa09-9dae697f57a7)
 
 ### Welcome to the Login Page!
 
@@ -112,17 +112,21 @@ You have two options to log in as either the First User or Second User.
 
 1. **Face Detection Login:**  
    You can use face detection to log in quickly. Just click the **"Face Detection"** button, and the system will try to recognize you through your face.
+![5](https://github.com/user-attachments/assets/25d4d266-64b7-4edb-82ec-93b37d25b4a9)
 
 2. **Login with Password:**  
    If you prefer, you can log in using your password. Simply click the **"Login with password"** button for the user you want to log in as.
+![6](https://github.com/user-attachments/assets/2db1196e-674f-44a9-b3c1-95497003641e)
 
 ### Profile Management:
 
 After logging in, you can update your profile. To do so, click the **"Update profile"** button. This will allow you to manage and change your profile details.
+![8](https://github.com/user-attachments/assets/99abbcf2-29f6-4608-ac08-9645a1d54cb0)
 
 ---
 
 ## Welcome to the User Dashboard
+![7](https://github.com/user-attachments/assets/58b7dc5f-e393-4053-ae02-b050d492b9ca)
 
 After successfully logging in, you will see a dashboard that displays information for two users: **First User** and **Second User**. Each user will have their own card, providing quick access to essential functions.
 
