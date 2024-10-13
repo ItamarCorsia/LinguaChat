@@ -88,6 +88,9 @@ To create an account, follow these steps:
 
 3. **Face Detection (Optional):**  
    After selecting a profile picture, the system will automatically detect faces from the uploaded image. You’ll be prompted to select your face from the detected options. Simply click on the correct image, and it will be highlighted.
+![aa](https://github.com/user-attachments/assets/d40d3c9c-b58b-4e55-8e18-613a6a89ff7e)
+
+![3](https://github.com/user-attachments/assets/c3eb96b7-3986-4b86-ab1b-dcf38eced819)
 
 4. **Confirm Your Face:**  
    Once you've selected your face, click the **"Confirm Face"** button to finalize your registration.
