@@ -53,3 +53,4 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 - Speech Recognition: Users can speak directly into the app, which converts their speech into translated text.
 
 - Profile Management: Users can update their profile details (email, password, or picture) anytime.
+
