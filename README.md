@@ -114,8 +114,9 @@ You have two options to log in as either the First User or Second User.
 1. **Face Detection Login:**  
    You can use face detection to log in quickly. Just click the **"Face Detection"** button, and the system will try to recognize you through your face.
 ![5](https://github.com/user-attachments/assets/25d4d266-64b7-4edb-82ec-93b37d25b4a9)
+after the system recognizes the user it will upload the user's data from the firebase.
 
-2. **Login with Password:**  
+3. **Login with Password:**  
    If you prefer, you can log in using your password. Simply click the **"Login with password"** button for the user you want to log in as.
 ![6](https://github.com/user-attachments/assets/2db1196e-674f-44a9-b3c1-95497003641e)
 
