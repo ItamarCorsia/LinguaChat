@@ -95,6 +95,7 @@ To create an account, follow these steps:
 
 5. **Complete Registration:**  
    When everything is set, the system will process your information and display a message confirming whether the registration was successful.
+   Here the system will take the img that the user used , and extract the faces from the img , then it will let you choose with which face to reegister with .
 ![Screenshot 2024-10-03 193017](https://github.com/user-attachments/assets/5c3078e0-7d3b-4484-bee9-7dbb857ae6ec)
 
 **Please ensure to select a profile picture for face detection, as it’s required for logging in later. Once you’ve completed these steps, you’ll be ready to use the app!**
