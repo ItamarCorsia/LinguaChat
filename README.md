@@ -1,7 +1,7 @@
 # LinguaChat
 Multilingual Chat Rooms with Real-Time Translation & Speech Recognition
 
-[LinguaChat.pdf](https://github.com/user-attachments/files/17412632/LinguaChat.pdf)
+[LinguaChat (2).pdf](https://github.com/user-attachments/files/17413239/LinguaChat.2.pdf)
 
 ## Project Overview
 LinguaChat is a real-time chat application that enables users to communicate across languages through automatic translation. It also includes a powerful speech recognition feature that converts spoken words into text and translates them into the user’s preferred language. The system supports user registration and login via Firebase, and allows for seamless multilingual conversations in chat rooms.
