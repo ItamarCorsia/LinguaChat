@@ -1,6 +1,10 @@
 # LinguaChat
 Multilingual Chat Rooms with Real-Time Translation & Speech Recognition
 
+**LinguaChat Application Guide (LinguaChat.pdf)**  
+This file provides an overview of the libraries and technologies used in the project.
+
+Including Flask, Firebase, SocketIO, and WebSockets, as well as a detailed explanation of retrieving images from Firebase and converting them to base64 for display.
 [LinguaChat (2).pdf](https://github.com/user-attachments/files/17413239/LinguaChat.2.pdf)
 
 ## Project Overview
