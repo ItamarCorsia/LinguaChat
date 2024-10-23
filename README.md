@@ -29,19 +29,19 @@ LinguaChat is a real-time chat application that enables users to communicate acr
 - Firebase Storage: Secure storage for user data and images.
 
 ## Technologies Used
-- Flask: Backend framework for creating the web server and handling HTTP requests.
+- **Flask**: Backend framework for creating the web server and handling HTTP requests.
 
-- Socket.IO: Real-time communication between users for instant message translation.
+- **Socket.IO**: Real-time communication between users for instant message translation.
 
-- Firebase: Authentication, real-time database, and cloud storage for user data.
+- **Firebase**: Authentication, real-time database, and cloud storage for user data.
 
-- Face Recognition: Facial recognition technology for both registration and login, allowing the system to identify known users based on their registered face data.
+- **Face Recognition**: Facial recognition technology for both registration and login, allowing the system to identify known users based on their registered face data.
 
-- Google Translate API (or similar): For automatic translation of messages.
+- **Google Translate API**: For automatic translation of messages.
 
-- SpeechRecognition (Python): For recognizing spoken words and converting them into text.
+- **SpeechRecognition (Python)**: For recognizing spoken words and converting them into text.
 
-- HTML/CSS/JavaScript: Frontend for user interaction.
+- **HTML/CSS/JavaScript**: Frontend for user interaction.
 
 ## How It Works
 - Sign Up / Login: Users can register or log in using their credentials, managed via Firebase.
