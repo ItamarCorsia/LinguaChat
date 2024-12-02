@@ -1,6 +1,7 @@
 # LinguaChat
 Multilingual Chat Rooms with Real-Time Translation & Speech Recognition
 
+
 **LinguaChat Application Guide (LinguaChat.pdf)**  
 This file provides an overview of the libraries and technologies used in the project.
 
